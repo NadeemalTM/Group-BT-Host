@@ -1,0 +1,10 @@
+pygame==2.5.2
+pybluez==0.23
+tkinter
+threading
+pyaudio==0.2.11
+mutagen==1.47.0
+pillow==10.0.1
+winrt-Windows.Devices.Bluetooth==1.0.0
+winrt-Windows.Media.Audio==1.0.0
+pycaw==20220416
